@@ -1,2 +1,1 @@
-# SemanticaDeMovimiento
-Ejemplo de uso de la semántica de movimiento en C++11
+Ejemplo de uso del constructor y operador con movimiento en C++11
